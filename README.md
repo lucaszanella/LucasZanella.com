@@ -1,3 +1,7 @@
+# About
+
+My old website (from 2012). The code is a mess, but I still keeo it because I don't have time to make a new one.
+
 # Build
 
 ```
