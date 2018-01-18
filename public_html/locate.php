@@ -149,7 +149,7 @@ if (in_array($treeOfPaths[1],$decodedJsonData['pages'][$language]['link'])) {//S
 	$nameOfThePage = array_search($treeOfPaths[1], $decodedJsonData['pages'][$language]['link']);//Request the name of the page in $decodedJsonData so there's no possibility of injection
 } else {
 	make404error();//make a 404 error because nothing was found
-    debugOut('made error  '.$decodedJsonData['pages'][$language]['link']);
+    //debugOut('made error  '.$decodedJsonData['pages'][$language]['link']);
 }
 
 if (!$error_404) {
