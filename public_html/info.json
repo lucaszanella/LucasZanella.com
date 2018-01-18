@@ -1,0 +1,159 @@
+{
+    "pages": {
+        "en": {
+            "menu": {
+                "0": "Home",
+                "1": "Projects",
+                "2": "Articles",
+                "3": "Contact",
+                "4": "About",
+                "5": "Academy"
+            },
+            "link": {
+                "0": "",
+                "1": "projects",
+                "2": "articles",
+                "3": "contact",
+                "4": "about",
+                "5": "academy"
+            },
+            "include": {
+                "0": "englishIndex.php",
+                "1": "projects.php",
+                "2": "articles.php",
+                "3": "contact.php",
+                "4": "about.php",
+                "5": "academia.php"
+            }
+        },
+        "pt": {
+            "menu": {
+                "0": "Início",
+                "1": "Projetos",
+                "2": "Artigos",
+                "3": "Contato",
+                "4": "Sobre",
+                "5": "Academia"
+            },
+            "link": {
+                "0": "",
+                "1": "projetos",
+                "2": "artigos",
+                "3": "contato",
+                "4": "sobre",
+                "5": "academia"
+            },
+            "include": {
+                "0": "portugueseIndex.php",
+                "1": "projetos.php",
+                "2": "artigos.php",
+                "3": "contato.php",
+                "4": "sobre.php",
+                "5": "academia.php"
+            }
+        }
+    },
+    "multipages": {
+        "en": {
+            "2": {
+                "math": {
+                    "content": {
+                        "zeta": "math_zeta_pt.php",
+                        "gamma": "math_gama_pt.php",
+                        "bernoulli": "bernoulli_en.php",
+                        "basel": "basel_en.php",
+                        "gabriels_trumpet": "gabriels_trumpet.php",
+                        "calculus": "calculus_en.php",
+                        "reverse-chain-rule":"reverse_chain_rule_en.php"
+                    },
+                    "title": {
+                        "zeta": "Zeta Function",
+                        "gamma": "Gamma Function",
+                        "bernoulli": "Bernoulli Numbers",
+                        "basel": "Basel Problem",
+                        "gabriels_trumpet": "Gabriel's Trumpet",
+                        "calculus": "Calculus",
+                        "reverse-chain-rule":"Reverse Chain Rule"
+                    },
+                    "description": {
+                        "zeta": "Zeta function.",
+                        "gama": "math_gama_pt.php",
+                        "bernoulli": "bernoulli_pt.php",
+                        "basel": "The solution to the Basel Problem was the first important conquest of Leonhard Euler and it's very important to number theory. Despite being a problem easy to state, it took almost one century to be solved. It involves finding the exact value of the sum 1\n² which is equal to π²/6 (and it should blow your mind).",
+                        "gabriels_trumpet": "paradoxo_gabriel_pt.php",
+                        "calculus": "Proof of some important calculus theorems that you, as a good mathematician, should always have in your head.",
+                        "reverse-chain-rule":"Learn the true intuition behind the Reverse Chain Rule technique for integrals, and its connection to the u-substitution and trigonometric substitution rules"
+                    },
+                    "page": "mathematics.php"
+                },
+                "cs": {
+                    "content": {
+                        "capacitive_sensor": "capacitive_sensor_en.php",
+                        "xss":"xss_prevention_en.php"
+                    },
+                    "title": {
+                        "capacitive_sensor": "Capacitive Sensor",
+                        "xss":"XSS prevention"
+                    },
+                    "description": {
+                        "capacitive_sensor": "Using a simple transistor to build a capacitive sensor.",
+                        "xss":"Preventing XSS attacks by giving attack examples and XSS filters information."
+                    },
+                    "page": "computerScience.php"
+                }
+            }
+        },
+        "pt": {
+            "2": {
+                "mat": {
+                    "content": {
+                        "zeta": "math_zeta_pt.php",
+                        "gama": "math_gama_pt.php",
+                        "bernoulli": "bernoulli_pt.php",
+                        "basileia": "basel_pt.php",
+                        "paradoxo_gabriel": "paradoxo_gabriel_pt.php",
+                        "calculo": "calculo_pt.php",
+                        "regra-da-cadeia-reversa":"reverse_chain_rule_pt.php",
+                        "experiencia-com-a-motorola":"experiencia_motorola.php"
+                    },
+                    "title": {
+                        "zeta": "Função Zeta",
+                        "gama": "Função Gama",
+                        "bernoulli": "Números de Bernoulli",
+                        "basileia": "Problema de Basileia",
+                        "paradoxo_gabriel": "Paradoxo de Gabriel",
+                        "calculo": "Teoremas de Cálculo",
+                        "regra-da-cadeia-reversa":"Regra da Cadeia Reversa",
+                        "experiencia-com-a-motorola":"Experiência de consumidor com a motorola"
+                    },
+                    "description": {
+                        "zeta": "Função Zeta vista através de Euler e Riemman, fórmula da função zeta para índices pares, continuação analítica da função zeta, divergência da série harmônica, relação entre a Função Zeta e números de Bernoulli.",
+                        "gama": "A função gama é uma integral que intercepta a função fatorial para valores inteiros, mas nos dá uma versão contínua da mesma.",
+                        "bernoulli": "Os números de Bernoulli aparecem em vários campos da matemática e possuem belas conexões com a Função Zeta.",
+                        "basileia": "O problema de Basileia, resolvido por Euler, foi um problema de teoria dos números envolvendo uma função em particular, chamada de Função Zeta. O problema lida com uma soma infinita que converge para um valor relacionado a pi.",
+                        "paradoxo_gabriel": "O paradoxo da trombeta de Gabriel envolve o volume finito, porém área infinita, do gráfico 1/x.",
+                        "calculo": "Revisão de cálculo e prova de algumas relações envolvendo limites, derivadas e integrais.",
+                        "regra-da-cadeia-reversa":"Aprenda a verdadeira intuição por trás da integral usando a Regra da Cadeia Reversa e sua conexão com a substituição por u e substituição trigonométrica",
+                        "experiencia-com-a-motorola":"Após ter alguns problemas com o atendimento ao consumidor e com o sistema de compras do site oficial da Motorola, decidi fazer um artigo com o intuito de compartilhar minha opinião, para que futuros consumidores possam pensar duas vezes antes de comprar na empresa."
+                    },
+                    "page": "matematica.php"
+                },
+                "cs": {
+                    "content": {
+                        "sensor_capacitivo": "sensor_capacitivo_pt.php",
+                        "xss":"xss_prevention_pt.php"
+                    },
+                    "title": {
+                        "sensor_capacitivo": "Sensor capacitivo",
+                        "xss":"Prevenção XSS"
+                    },
+                    "description": {
+                        "sensor_capacitivo": "Usando um simples transistor para criar um sensor capacitivo, podendo ativar coisas com um simples toque.",
+                        "xss":"Prevenção a ataques XSS, demonstrando técnicas de ataque e filtros."
+                    },
+                    "page": "computacao.php"
+                }
+            }
+        }
+    }
+}

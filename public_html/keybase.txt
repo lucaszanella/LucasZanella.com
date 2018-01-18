@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/lucaszanella
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://lucaszanella.com
+  * I am lucaszanella (https://keybase.io/lucaszanella) on keybase.
+  * I have a public key with fingerprint 0D4B 5C71 59B1 56DC 575B  E0B7 B149 D085 01AF 4503
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "0d4b5c7159b156dc575be0b7b149d08501af4503",
+            "host": "keybase.io",
+            "key_id": "b149d08501af4503",
+            "uid": "fe91c4e45aca953e413618848f12ce00",
+            "username": "lucaszanella"
+        },
+        "service": {
+            "hostname": "lucaszanella.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1408614455,
+    "expire_in": 157680000,
+    "prev": "551b548c1803cdbf96ef4cb7fdf270db6c41f90558b635f1a917d433f6cf01d8",
+    "seqno": 2,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.3.1
+Comment: https://keybase.io/crypto
+
+yMHoAnicbZFdSBRRFMd3NUXXCikVH8Lsohloeq87d2Z2Se3jrbAPojIqtrkzd3Rq
+nVl3Z/1MQhaxIop8MEwykaSHoOjLTNMW3aDQBwuRtNCH8iOizEztC2xG6s37crjn
+/P7/cw4ntCbcYrMGbiV1Bbo726z9wZ9+y8H5IFcFiCZVAGcVOE2Xg6yohdTr8Sqq
+DpwASgzBIoewgyDMSiLmMKGQcAQxDgnyGCJBZjC0gwxQpPlMhWFDBB/NVDQjZ3xc
+imRkV+D9ywWZOpDIUAYLouDAdsogO4t4nuFllC1SCE3QR72qUEwN2u0XBV+loFK3
+WwDVGcColCoiNec2269AZYpaseHh8Wq6Jmpuo1qk6x6nKdYrPCZdRonrn4+LKKpk
+7G8ISqnXp2gqcCKDFHXFNEYM5FnEMBhnAFruUbzUpZgE5lgeGs9sQ0sNS4wRwQwv
+Ih7aRYnIDpbKjEg4WZKzOSgRVmSQ7IAY84S1YxkJDsRJjN0us6IMkcQDc7MSVQPO
+bGNModCw9CmFqqD7vRRU9waPr7JYbZbIiDDzghZbdOz/uyb0RVlux6ROpfXnT7SP
+8f4v5zpqGFgw/baPPI2KfPPqZXTe1/EA7hlpuvYkZ/jdHysKHiH5n+W4gYSdl9iN
+lxdAa3lu6Iay29+s/uoN5V3v2m8dOnQhff3EGWV7WM1UweBCoBj7no+UbBgd2lN9
+TKg9GToQmZzVmfzs1La1s3qsVj9pa28537z1wZayLDcESX9Wp77+/ehx4kDWrlrt
+Y1hVR11DfCP7MKfbdvjupqlcNFifGh2xeam/YWbaNXf/yrDU1rR4Ymlx9NvZxLTk
++A8t4+uiLt5MUe/EXv2xF77/RNvnGntm9k2nSDuGxoTwOCG9svtFTGvZ99S6+dmj
+E0mT99r+Aub2Gqo=
+=bXsH
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lucaszanella
+
+==================================================================

@@ -1,0 +1,826 @@
+[05-Oct-2014 23:00:25 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: Connection timed out in /home/lucaszan/public_html/locate.php on line 139
+[05-Oct-2014 23:00:25 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[05-Oct-2014 23:02:25 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: Connection timed out in /home/lucaszan/public_html/locate.php on line 139
+[05-Oct-2014 23:02:25 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[18-Dec-2014 18:21:35 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed!  in /home/lucaszan/public_html/locate.php on line 139
+[18-Dec-2014 18:21:35 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[18-Dec-2014 18:26:16 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed!  in /home/lucaszan/public_html/locate.php on line 139
+[18-Dec-2014 18:26:16 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[18-Dec-2014 18:29:04 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed!  in /home/lucaszan/public_html/locate.php on line 139
+[18-Dec-2014 18:29:04 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[18-Dec-2014 18:56:00 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: Connection timed out in /home/lucaszan/public_html/locate.php on line 139
+[18-Dec-2014 18:56:00 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[18-Dec-2014 19:16:26 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed!  in /home/lucaszan/public_html/locate.php on line 139
+[18-Dec-2014 19:16:26 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 06:18:05 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 06:18:05 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 06:18:09 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 06:18:09 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 07:37:29 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 07:37:29 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 07:37:30 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 07:37:30 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 07:53:41 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 07:53:41 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 08:08:09 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 08:08:09 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 11:57:09 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 11:57:09 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 12:28:26 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 12:28:26 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 14:35:41 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 14:35:41 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 14:36:46 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 14:36:46 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 15:19:34 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 15:19:34 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 15:19:35 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 15:19:35 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 15:19:35 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 15:19:35 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 16:42:57 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 16:42:57 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:10:58 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:10:58 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:11:31 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:11:31 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:11:35 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:11:35 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:26:01 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:26:01 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:26:01 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:26:01 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:26:01 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:26:01 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:26:01 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:26:01 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:26:01 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:26:01 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:26:02 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:26:02 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:41:22 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:41:22 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:41:31 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:41:31 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:41:32 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:41:32 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:41:33 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:41:33 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:41:33 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:41:33 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:41:40 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:41:40 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:41:40 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:41:40 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:41:40 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:41:40 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:41:42 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:41:42 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:41:42 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:41:42 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:41:42 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:41:42 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:41:43 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:41:43 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:41:43 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:41:43 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:41:43 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:41:43 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:41:44 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:41:44 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:41:45 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:41:45 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:41:45 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:41:45 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:41:47 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:41:47 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:41:47 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:41:47 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:41:47 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:41:47 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:42:06 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:42:06 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:42:07 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:42:07 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:42:08 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:42:08 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:42:17 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:42:17 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:42:30 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:42:30 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:42:31 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:42:31 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:42:37 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:42:37 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:42:40 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:42:40 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:42:42 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:42:42 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:42:45 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:42:45 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:42:47 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:42:47 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:43:40 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:43:40 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:43:40 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[04-Mar-2015 17:43:40 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 166
+[04-Mar-2015 17:43:40 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 181
+[04-Mar-2015 17:43:40 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[04-Mar-2015 17:43:40 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:43:40 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:43:40 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[04-Mar-2015 17:43:40 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[04-Mar-2015 17:43:40 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 166
+[04-Mar-2015 17:43:40 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 181
+[04-Mar-2015 17:43:40 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[04-Mar-2015 17:43:41 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:43:41 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:43:41 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[04-Mar-2015 17:43:41 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[04-Mar-2015 17:43:41 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 166
+[04-Mar-2015 17:43:41 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 181
+[04-Mar-2015 17:43:41 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[04-Mar-2015 17:43:41 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:43:41 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:43:42 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:43:42 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:48:59 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:48:59 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 17:48:59 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 17:48:59 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:00:24 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:00:24 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:00:24 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:00:24 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:02:05 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:02:05 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:02:08 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:02:08 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:02:25 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:02:25 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:02:25 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:02:25 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:02:30 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:02:30 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:02:31 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:02:31 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:02:33 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:02:33 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:02:34 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:02:34 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:02:34 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:02:34 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:02:36 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:02:36 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:05:32 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:05:32 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:05:33 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:05:33 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:05:40 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:05:40 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:05:41 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:05:41 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:13:03 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:13:03 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:13:04 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:13:04 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:13:12 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:13:12 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:13:13 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:13:13 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:13:15 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:13:15 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:13:16 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:13:16 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:13:17 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:13:17 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:13:18 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:13:18 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:13:19 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:13:19 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:13:19 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:13:19 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:13:20 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:13:20 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:13:21 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:13:21 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:13:21 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:13:21 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:13:36 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:13:36 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:13:36 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:13:36 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:13:36 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:13:36 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:13:36 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:13:36 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:13:36 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:13:36 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:13:36 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:13:36 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:13:36 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:13:36 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:13:36 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:13:36 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:13:37 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:13:37 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:13:46 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:13:46 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:13:47 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:13:47 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:14:09 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:14:09 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:14:37 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:14:37 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:14:38 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:14:38 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:14:41 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:14:41 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:15:54 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:15:54 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:15:54 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[04-Mar-2015 18:15:54 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[04-Mar-2015 18:15:54 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 166
+[04-Mar-2015 18:15:54 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 181
+[04-Mar-2015 18:15:54 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[04-Mar-2015 18:15:54 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:15:54 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:15:54 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[04-Mar-2015 18:15:54 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[04-Mar-2015 18:15:54 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 166
+[04-Mar-2015 18:15:54 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 181
+[04-Mar-2015 18:15:54 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[04-Mar-2015 18:37:48 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:37:48 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:37:49 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:37:49 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:40:49 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:40:49 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:40:50 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:40:50 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:44:58 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:44:58 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:47:07 Brazil/East] PHP Warning:  file_get_contents(http%3A%2F%2Flucaszanella.com%2Finfo.json): failed to open stream: No such file or directory in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:47:07 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:47:10 Brazil/East] PHP Warning:  file_get_contents(http%3A%2F%2Flucaszanella.com%2Finfo.json): failed to open stream: No such file or directory in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:47:10 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:47:32 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:47:32 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:47:39 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:47:39 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:56:52 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:56:52 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:56:52 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[04-Mar-2015 18:56:52 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[04-Mar-2015 18:56:52 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 166
+[04-Mar-2015 18:56:52 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 181
+[04-Mar-2015 18:56:52 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[04-Mar-2015 18:57:03 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:57:03 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 18:57:03 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 18:57:03 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 19:00:59 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 19:00:59 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 19:03:28 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 19:03:28 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 19:03:29 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 19:03:29 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 19:30:12 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 19:30:12 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 19:30:13 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 19:30:13 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 19:38:59 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 19:38:59 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 19:43:31 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 19:43:31 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 19:43:31 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[04-Mar-2015 19:43:31 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[04-Mar-2015 19:43:31 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 166
+[04-Mar-2015 19:43:31 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 181
+[04-Mar-2015 19:43:31 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[04-Mar-2015 19:46:33 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 19:46:33 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 19:46:34 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 19:46:34 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 19:46:44 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 19:46:44 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 19:51:50 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 19:51:50 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 19:51:51 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 19:51:51 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 20:03:38 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 20:03:38 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 20:04:42 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 20:04:42 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 20:04:43 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 20:04:43 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 20:04:54 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 20:04:54 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 20:05:11 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/lucaszan/public_html/locate.php on line 139
+[04-Mar-2015 20:05:11 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[04-Mar-2015 20:05:11 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[04-Mar-2015 20:05:11 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[04-Mar-2015 20:05:11 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 166
+[04-Mar-2015 20:05:11 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 181
+[04-Mar-2015 20:05:11 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[30-Apr-2015 15:02:00 Brazil/East] PHP Warning:  Header may not contain NUL bytes in /home/lucaszan/public_html/locate.php on line 35
+[30-Apr-2015 15:02:00 Brazil/East] PHP Warning:  Header may not contain NUL bytes in /home/lucaszan/public_html/locate.php on line 35
+[30-Apr-2015 15:02:06 Brazil/East] PHP Warning:  Header may not contain NUL bytes in /home/lucaszan/public_html/locate.php on line 35
+[12-Jul-2015 13:53:02 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: Connection timed out in /home/lucaszan/public_html/locate.php on line 139
+[12-Jul-2015 13:53:02 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[12-Jul-2015 13:53:02 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[12-Jul-2015 13:53:02 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[12-Jul-2015 13:53:02 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 166
+[12-Jul-2015 13:53:02 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 181
+[12-Jul-2015 13:53:02 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[20-Jul-2015 10:59:23 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[20-Jul-2015 10:59:23 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[20-Jul-2015 10:59:23 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[20-Jul-2015 11:01:13 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[20-Jul-2015 11:01:13 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[20-Jul-2015 11:01:13 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[20-Jul-2015 11:01:40 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[20-Jul-2015 11:01:41 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[20-Jul-2015 11:01:41 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[20-Jul-2015 11:04:41 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[20-Jul-2015 11:04:41 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[20-Jul-2015 11:04:41 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[23-Jul-2015 16:48:36 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 16:48:36 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 16:48:36 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[23-Jul-2015 16:48:36 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[23-Jul-2015 16:48:36 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[23-Jul-2015 16:48:36 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 166
+[23-Jul-2015 16:48:36 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 181
+[23-Jul-2015 16:48:36 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[23-Jul-2015 16:48:37 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 16:48:37 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 16:48:37 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[23-Jul-2015 16:49:02 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 16:49:02 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 16:49:02 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[23-Jul-2015 16:49:02 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[23-Jul-2015 16:49:02 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[23-Jul-2015 16:49:02 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 166
+[23-Jul-2015 16:49:02 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 181
+[23-Jul-2015 16:49:02 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[23-Jul-2015 16:49:10 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 16:49:10 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 16:49:10 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[23-Jul-2015 16:49:25 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 16:49:25 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 16:49:25 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[23-Jul-2015 16:49:25 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[23-Jul-2015 16:49:25 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[23-Jul-2015 16:49:25 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 166
+[23-Jul-2015 16:49:25 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 181
+[23-Jul-2015 16:49:25 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[23-Jul-2015 17:07:00 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 17:07:00 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 17:07:00 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[23-Jul-2015 17:13:27 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 17:13:27 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 17:13:27 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[23-Jul-2015 17:33:13 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 17:33:13 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 17:33:13 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[23-Jul-2015 17:33:13 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 17:33:13 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 17:33:13 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[23-Jul-2015 17:39:13 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 17:39:13 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 17:39:13 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[23-Jul-2015 17:39:13 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 17:39:13 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 17:39:13 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[23-Jul-2015 17:39:13 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[23-Jul-2015 17:39:13 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 166
+[23-Jul-2015 17:39:13 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 181
+[23-Jul-2015 17:39:13 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[23-Jul-2015 18:02:56 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 18:02:56 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 18:02:56 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[23-Jul-2015 18:03:01 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 18:03:01 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 18:03:01 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[23-Jul-2015 18:03:26 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 18:03:26 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 18:03:26 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[23-Jul-2015 18:16:55 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 18:16:55 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 18:16:55 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[23-Jul-2015 18:54:00 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 18:54:00 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 18:54:00 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[23-Jul-2015 19:11:48 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 19:11:48 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 19:11:48 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[23-Jul-2015 19:15:15 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 19:15:15 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 19:15:15 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[23-Jul-2015 19:15:15 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[23-Jul-2015 19:15:15 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[23-Jul-2015 19:15:15 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 166
+[23-Jul-2015 19:15:15 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 181
+[23-Jul-2015 19:15:15 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[23-Jul-2015 19:15:31 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 19:15:31 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 19:15:31 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[23-Jul-2015 19:15:31 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[23-Jul-2015 19:15:31 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 166
+[23-Jul-2015 19:15:31 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 181
+[23-Jul-2015 19:15:31 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[23-Jul-2015 19:16:31 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 19:16:31 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 19:16:31 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[23-Jul-2015 19:16:47 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 19:16:47 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 19:16:47 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[23-Jul-2015 21:21:57 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 21:21:57 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 21:21:57 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[23-Jul-2015 21:21:58 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 21:21:58 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 21:21:58 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[23-Jul-2015 22:00:52 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 22:00:52 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 22:00:52 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[23-Jul-2015 22:01:09 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 22:01:09 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 22:01:09 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[23-Jul-2015 22:01:22 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 22:01:22 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 22:01:22 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[23-Jul-2015 23:55:56 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 23:55:56 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 23:55:56 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[23-Jul-2015 23:55:56 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 23:55:56 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[23-Jul-2015 23:55:56 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 01:41:35 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 01:41:35 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 01:41:35 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 01:49:34 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 01:49:34 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 01:49:34 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 02:00:43 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 02:00:43 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 02:00:43 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 02:18:06 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 02:18:06 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 02:18:06 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 03:03:53 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 03:03:53 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 03:03:53 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 03:11:20 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 03:11:20 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 03:11:20 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 05:27:44 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 05:27:44 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 05:27:44 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 05:36:48 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 05:36:48 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 05:36:48 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 05:36:48 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 05:36:48 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 05:36:48 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 166
+[24-Jul-2015 05:36:48 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 181
+[24-Jul-2015 05:36:48 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 05:36:48 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 05:36:48 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 05:36:48 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 05:36:48 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 05:36:48 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 05:36:48 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 05:36:48 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 166
+[24-Jul-2015 05:36:48 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 181
+[24-Jul-2015 05:36:48 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 07:37:19 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 07:37:19 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 07:37:19 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 09:42:39 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 09:42:39 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 09:42:39 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 12:12:49 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 12:12:49 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 12:12:49 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 12:12:54 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 12:12:54 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 12:12:54 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 12:12:54 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 12:12:54 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 166
+[24-Jul-2015 12:12:54 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 181
+[24-Jul-2015 12:12:54 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 13:32:05 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 13:32:05 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 13:32:05 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 14:15:11 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 14:15:11 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 14:15:11 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 14:15:11 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 14:15:11 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 14:15:11 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 166
+[24-Jul-2015 14:15:11 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 181
+[24-Jul-2015 14:15:11 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 14:49:57 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 14:49:57 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 14:49:57 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 15:14:26 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 15:14:26 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 15:14:26 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 15:14:27 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 15:14:27 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 15:14:27 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 15:21:39 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 15:21:39 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 15:21:39 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 15:27:15 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 15:27:15 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 15:27:15 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 15:32:16 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 15:32:16 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 15:32:16 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 17:33:49 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 17:33:49 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 17:33:49 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 17:42:57 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 17:42:57 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 17:42:57 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 18:00:58 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 18:00:58 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 18:00:58 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 18:00:58 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 18:00:58 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 18:00:58 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 166
+[24-Jul-2015 18:00:58 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 181
+[24-Jul-2015 18:00:58 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 18:01:02 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 18:01:02 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 18:01:02 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 18:01:03 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 18:01:03 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 18:01:03 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 19:25:18 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 19:25:18 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 19:25:18 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 19:25:18 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 19:25:18 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 19:25:18 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 166
+[24-Jul-2015 19:25:18 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 181
+[24-Jul-2015 19:25:18 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 21:05:53 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 21:05:53 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 21:05:53 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 21:25:44 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 21:25:44 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 21:25:44 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 21:25:44 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 21:25:44 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 21:25:44 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 166
+[24-Jul-2015 21:25:44 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 181
+[24-Jul-2015 21:25:44 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 21:50:09 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 21:50:09 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 21:50:09 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 21:50:26 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 21:50:26 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 21:50:26 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 21:51:38 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 21:51:38 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 21:51:38 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 21:51:47 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 21:51:47 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 21:51:47 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 21:51:47 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 21:51:47 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 21:51:47 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 166
+[24-Jul-2015 21:51:47 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 181
+[24-Jul-2015 21:51:47 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 21:51:47 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 21:51:47 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 21:51:47 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 21:51:48 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 21:51:48 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 21:51:48 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 21:59:24 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 21:59:24 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 21:59:24 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 21:59:24 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 21:59:24 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 21:59:24 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 166
+[24-Jul-2015 21:59:24 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 181
+[24-Jul-2015 21:59:24 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 21:59:24 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 21:59:24 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 21:59:24 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 21:59:24 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 21:59:24 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 21:59:24 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 166
+[24-Jul-2015 21:59:24 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 181
+[24-Jul-2015 21:59:24 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 21:59:27 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 21:59:27 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 21:59:27 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 21:59:27 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 21:59:27 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 21:59:27 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 166
+[24-Jul-2015 21:59:27 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 181
+[24-Jul-2015 21:59:27 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 21:59:27 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 21:59:27 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 21:59:27 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 21:59:27 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 21:59:27 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 21:59:27 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 166
+[24-Jul-2015 21:59:27 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 181
+[24-Jul-2015 21:59:27 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 22:02:16 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 22:02:16 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 22:02:16 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 22:02:16 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 22:02:16 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 22:02:16 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 166
+[24-Jul-2015 22:02:16 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 181
+[24-Jul-2015 22:02:16 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 22:02:20 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 22:02:20 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 22:02:20 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 22:02:20 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 22:02:20 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 22:02:20 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 166
+[24-Jul-2015 22:02:20 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 181
+[24-Jul-2015 22:02:20 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 22:02:20 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 22:02:20 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 22:02:20 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 22:02:20 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 22:02:20 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 22:02:20 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 166
+[24-Jul-2015 22:02:20 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 181
+[24-Jul-2015 22:02:20 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 22:02:21 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 22:02:21 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 22:02:21 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 22:02:21 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 22:02:21 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 22:02:21 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 166
+[24-Jul-2015 22:02:21 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 181
+[24-Jul-2015 22:02:21 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 22:02:22 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 22:02:22 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 22:02:22 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 22:02:22 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 22:02:22 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 22:02:22 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 166
+[24-Jul-2015 22:02:22 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 181
+[24-Jul-2015 22:02:22 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 22:03:19 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 22:03:19 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 22:03:19 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 22:03:19 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 22:03:19 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 22:03:19 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 166
+[24-Jul-2015 22:03:19 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 181
+[24-Jul-2015 22:03:19 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 22:03:19 Brazil/East] PHP Warning:  file_get_contents(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 22:03:19 Brazil/East] PHP Warning:  file_get_contents(http://lucaszanella.com/info.json): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/lucaszan/public_html/locate.php on line 139
+[24-Jul-2015 22:03:19 Brazil/East] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 144
+[24-Jul-2015 22:03:19 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 22:03:19 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
+[24-Jul-2015 22:03:19 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 166
+[24-Jul-2015 22:03:19 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 181
+[24-Jul-2015 22:03:19 Brazil/East] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/lucaszan/public_html/locate.php on line 165
