@@ -25,7 +25,7 @@
     class="statcounter"
     src="http://c.statcounter.com/6440563/0/78bf6558/1/"
     alt="site stats"></a></div></noscript>
-    <?php echo "<link rel='shortcut icon' href='".$site_root."images/favicon.ico' type='image/x-icon' />\n"; ?>
+    <?php echo "<link rel='shortcut icon' href='/images/favicon.ico' type='image/x-icon' />\n"; ?>
     <?php echo "<meta name=\"description\" content=\"".$description."\">\n"?>
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700,300,600|Bree+Serif" rel="stylesheet" type="text/css">
     <script src="https://google-code-prettify.googlecode.com/svn/loader/run_prettify.js?skin=desert"></script>
