@@ -22,8 +22,8 @@
 		</div>
 		<div class='footer_c' id='terc_footer_c'>
             <div id='math_widget'>
-                <a href="http://math.stackexchange.com/users/55643/lucas-zanella" target='_blank'>
-                    <img src="http://math.stackexchange.com/users/flair/55643.png" width="208" height="58" alt="profile for Lucas Zanella at Mathematics Stack Exchange, Q&amp;A for people studying math at any level and professionals in related fields" title="profile for Lucas Zanella at Mathematics Stack Exchange, Q&amp;A for people studying math at any level and professionals in related fields">
+                <a href="https://math.stackexchange.com/users/55643/lucas-zanella" target='_blank'>
+                    <img src="https://math.stackexchange.com/users/flair/55643.png" width="208" height="58" alt="profile for Lucas Zanella at Mathematics Stack Exchange, Q&amp;A for people studying math at any level and professionals in related fields" title="profile for Lucas Zanella at Mathematics Stack Exchange, Q&amp;A for people studying math at any level and professionals in related fields">
                 </a>
             </div>
             <?php //echo 'this: '.$string.' end<p>';?>
