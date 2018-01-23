@@ -5,8 +5,8 @@
             <?php echo "<li><a href=".$site_root.$language."/articles> Articles </a></li>\n"?>
             <?php echo "<li><a href=".$site_root.$language."/about> About </a></li>\n"?>
             <?php echo "<li><a href=".$site_root.$language."/contact> Contact </a></li>\n"?>
-            <?php echo "<li><a href='http://youtube.com/academiazanella' target='_blank'> Academy &uarr; </a></li>\n"?>
-            <?php echo "<li><a href='http://youtube.com/geekionizado' target='_blank'> YouTube &uarr;</a></li>\n"?>
+            <?php echo "<li><a href='https://youtube.com/academiazanella' target='_blank'> Academy &uarr; </a></li>\n"?>
+            <?php echo "<li><a href='https://youtube.com/geekionizado' target='_blank'> YouTube &uarr;</a></li>\n"?>
             <?php echo "<li><a href='https://github.com/lucaszanella' target='_blank'> Github &uarr;</a></li>\n"?>
 		</ul>
 	</div>
