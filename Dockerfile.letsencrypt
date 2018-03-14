@@ -4,4 +4,4 @@ RUN apt-get update && apt-get install -y python-certbot-apache
 
 RUN crontab -l > mycron && echo "0 0 * * 1,4 certbot renew" >> mycron && crontab mycron && rm mycron 
 
-ENTRYPOINT /bin/sh "certbot certonly --webroot --webroot-path /var/www/html --non-interactive --standalone --agree-tos --email me@lucaszanella.com --cert-name lucaszanella.com --domains lucaszanella.com"
+ENTRYPOINT /bin/sh "if [ ! -f /etc/letsencrypt/live/lucaszanella.com/cert.pem ]; then certbot certonly --webroot --webroot-path /var/www/html --non-interactive --standalone --agree-tos --email me@lucaszanella.com --cert-name lucaszanella.com --domains lucaszanella.com;"
