@@ -17,3 +17,5 @@ services:
     volumes:
       - "public_html:/var/www/html"
       - "letsencrypt:/etc/letsencrypt/live/lucaszanella.com/"
+      - "first_run:/first_run"
+
