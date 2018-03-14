@@ -5,8 +5,9 @@ services:
       context: .
       dockerfile: Dockerfile.site
     volumes:
-      - "public_html:/var/www/html"
-      - "letsencrypt:/etc/letsencrypt/live/lucaszanella.com/"
+      - "./public_html:/var/www/html"
+      - "./letsencrypt:/etc/letsencrypt/live/lucaszanella.com/"
+      - "./apache2:/etc/apache2/"
     ports:
       - "80:80"
       - "443:443"
@@ -15,7 +16,7 @@ services:
       context: .
       dockerfile: Dockerfile.letsencrypt
     volumes:
-      - "public_html:/var/www/html"
-      - "letsencrypt:/etc/letsencrypt/live/lucaszanella.com/"
-      - "first_run:/first_run"
+      - "./public_html:/var/www/html"
+      - "./letsencrypt:/etc/letsencrypt/live/lucaszanella.com/"
+      - "./apache2:/etc/apache2/"
 
