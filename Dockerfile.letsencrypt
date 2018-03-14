@@ -1,0 +1,5 @@
+FROM ubuntu:latest
+
+RUN apt-get update && apt-get install -y python-certbot-apache -t jessie-backports
+
+ENTRYPOINT /bin/sh "certbot certonly --webroot-path /var/www/html --non-interactive --standalone --agree-tos --email me@lucaszanella.com --cert-name lucaszanella.com --domains lucaszanella.com"

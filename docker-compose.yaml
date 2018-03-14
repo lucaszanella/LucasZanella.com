@@ -1,0 +1,19 @@
+version: '3'
+services:
+  site:
+    build:
+      context: .
+      dockerfile: Dockerfile.site
+    volumes:
+      - "public_html:/var/www/html"
+      - "letsencrypt:/etc/letsencrypt/live/lucaszanella.com/"
+    ports:
+      - "80:80"
+      - "443:443"
+  letsencrypt:
+    build:
+      context: .
+      dockerfile: Dockerfile.letsencrypt
+    volumes:
+      - "public_html:/var/www/html"
+      - "letsencrypt:/etc/letsencrypt/live/lucaszanella.com/"
