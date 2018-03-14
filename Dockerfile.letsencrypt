@@ -1,5 +1,7 @@
 FROM ubuntu:latest
 
-RUN apt-get update && apt-get install -y python-certbot-apache -t jessie-backports
+RUN apt-get update && apt-get install -y python-certbot-apache
 
-ENTRYPOINT /bin/sh "certbot certonly --webroot-path /var/www/html --non-interactive --standalone --agree-tos --email me@lucaszanella.com --cert-name lucaszanella.com --domains lucaszanella.com"
+RUN crontab -l > mycron && echo "0 0 * * 1,4 certbot renew" >> mycron && crontab mycron && rm mycron 
+
+ENTRYPOINT /bin/sh "certbot certonly --webroot --webroot-path /var/www/html --non-interactive --standalone --agree-tos --email me@lucaszanella.com --cert-name lucaszanella.com --domains lucaszanella.com"
