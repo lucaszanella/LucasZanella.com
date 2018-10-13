@@ -20,6 +20,12 @@ echo "Standalone installation, no webserver must be running (default option)"
 
 certbot certonly --standalone --staging --non-interactive --agree-tos --email $EMAIL --cert-name $CERT_NAME --domains $DOMAINS
 
+elif [ "$1" = "renew" ]; then
+
+echo "Starting container in renew mode. In this mode it just waits for the renew cron to run"
+
+tail -f /dev/null
+
 else
 
 echo "Assuming certs are already installed, only running background renewing jobs."
