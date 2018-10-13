@@ -24,6 +24,8 @@ elif [ "$1" = "renew" ]; then
 
 echo "Starting container in renew mode. In this mode it just waits for the renew cron to run"
 
+echo "0 0 * * 1,4 certbot certonly --webroot --webroot-path /var/www/html --force-renewal --non-interactive --agree-tos --email $EMAIL --cert-name $CERT_NAME --domains $DOMAINS" >> mycron && crontab -l -u root | cat - mycron | crontab -u root -
+
 tail -f /dev/null
 
 else

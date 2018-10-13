@@ -4,7 +4,7 @@ RUN apt-get update && apt-get install -y software-properties-common && add-apt-r
 
 WORKDIR /home
 
-RUN echo "0 0 * * 1,4 certbot certonly --webroot --webroot-path /var/www/html --force-renewal --non-interactive --agree-tos --email $EMAIL --cert-name $CERT_NAME --domains $DOMAINS" >> mycron && crontab -l -u root | cat - mycron | crontab -u root -
+#RUN echo "0 0 * * 1,4 certbot certonly --webroot --webroot-path /var/www/html --force-renewal --non-interactive --agree-tos --email $EMAIL --cert-name $CERT_NAME --domains $DOMAINS" >> mycron && crontab -l -u root | cat - mycron | crontab -u root -
 
 COPY lets_entrypoint.sh /home/lets_entrypoint.sh
 
