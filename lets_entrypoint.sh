@@ -1,6 +1,6 @@
 #!/bin/sh
 
-if [ "$1" = "use_nginx" ]; then
+if [ "$1" = "webroot" ]; then
 
 echo "Installing letsencrypt certs. A webserver must be running."
 
