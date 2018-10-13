@@ -7,7 +7,8 @@ services:
     volumes:
       - "./public_html:/var/www/html"
       - "/letsencrypt:/etc/letsencrypt"
-      - "./apache2:/etc/apache2/"
+#      - "./apache2:/etc/apache2/"
+    restart: unless-stopped
     ports:
       - "80:80"
       - "443:443"
@@ -15,7 +16,7 @@ services:
     build:
       context: .
       dockerfile: lets_encrypt.Dockerfile
-    command: ["standalone"]
+    command: ["renew"]
     environment:
       - EMAIL=me@lucaszanella.com
       - CERT_NAME=lucaszanella.com
@@ -23,7 +24,6 @@ services:
     volumes:
       - "./public_html:/var/www/html"
       - "/letsencrypt:/etc/letsencrypt"
-      - "./apache2:/etc/apache2/"
       - "/letsencrypt_var_log:/var/log/letsencrypt"
   #   ports:
   #    - "80:80"
