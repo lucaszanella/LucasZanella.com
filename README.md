@@ -2,6 +2,12 @@
 
 My old website (from 2012). The code is a mess, I was young, but I still keep it because I don't have time to make a new one.
 
+#Build
+
+```
+sudo docker build -t lets_encrypt -f lets_encrypt.Dockerfile .
+```
+
 
 #Installation
 

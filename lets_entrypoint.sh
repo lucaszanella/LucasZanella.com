@@ -14,6 +14,12 @@ echo "Standalone installation, no webserver must be running (default option)"
 
 certbot certonly --standalone --non-interactive --agree-tos --email $EMAIL --cert-name $CERT_NAME --domains $DOMAINS
 
+elif [ "$1" = "standalone_test" ]; then
+
+echo "Standalone installation, no webserver must be running (default option)"
+
+certbot certonly --standalone --staging --non-interactive --agree-tos --email $EMAIL --cert-name $CERT_NAME --domains $DOMAINS
+
 else
 
 echo "Assuming certs are already installed, only running background renewing jobs."

@@ -19,4 +19,4 @@ services:
       - "./public_html:/var/www/html"
       - "/letsencrypt:/etc/letsencrypt/live/lucaszanella.com/"
       - "./apache2:/etc/apache2/"
-
+      - "/letsencrypt_var_log:/var/log/letsencrypt"
