@@ -1,15 +1,21 @@
-if [ ! -f /etc/letsencrypt/live/lucaszanella.com/cert.pem ] then 
+#!/bin/sh
 
-certbot certonly --webroot --webroot-path /var/www/html --non-interactive --agree-tos --email me@lucaszanella.com --cert-name lucaszanella.com --domains lucaszanella.com \
-&& if [ -f /etc/letsencrypt/live/lucaszanella.com/cert.pem ] then  
-        echo '<VirtualHost _default_:443>\n\
-        ServerName lucaszanella.com:443\n\
-        ServerAdmin webmaster@localhost\n\
-        DocumentRoot "/var/www/html"\n\
-        SSLEngine on\n\
-        SSLCertificateFile    /etc/letsencrypt/live/lucaszanella.com/cert.pem\n\
-        SSLCertificateKeyFile /etc/letsencrypt/live/lucaszanella.com/privkey.pem\n\
-        SSLCertificateChainFile /etc/letsencrypt/live/lucaszanella.com/fullchain.pem\n\
-        </VirtualHost>' > /etc/apache2/sites-enabled/default-ssl.conf
-   fi
+if [ "$1" = "use_nginx" ]; then
+
+echo "Installing letsencrypt certs. A webserver must be running."
+
+mkdir -p /var/www/html
+
+certbot certonly --webroot --webroot-path /var/www/html --non-interactive --agree-tos --email $EMAIL --cert-name $CERT_NAME --domains $DOMAINS
+
+elif [ "$1" = "standalone" ]; then
+
+echo "Standalone installation, no webserver must be running (default option)"
+
+certbot certonly --standalone --non-interactive --agree-tos --email $EMAIL --cert-name $CERT_NAME --domains $DOMAINS
+
+else
+
+echo "arruming certs are already installed"
+
 fi

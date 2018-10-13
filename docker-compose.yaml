@@ -3,7 +3,7 @@ services:
   site:
     build:
       context: .
-      dockerfile: Dockerfile.site
+      dockerfile: site.Dockerfile
     volumes:
       - "./public_html:/var/www/html"
       - "./letsencrypt:/etc/letsencrypt/live/lucaszanella.com/"
@@ -14,7 +14,7 @@ services:
   letsencrypt:
     build:
       context: .
-      dockerfile: Dockerfile.letsencrypt
+      dockerfile: lets_encrypt.Dockerfile
     volumes:
       - "./public_html:/var/www/html"
       - "./letsencrypt:/etc/letsencrypt/live/lucaszanella.com/"
