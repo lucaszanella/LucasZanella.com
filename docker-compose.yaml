@@ -6,7 +6,7 @@ services:
       dockerfile: site.Dockerfile
     volumes:
       - "./public_html:/var/www/html"
-      - "./letsencrypt:/etc/letsencrypt/live/lucaszanella.com/"
+      - "/letsencrypt:/etc/letsencrypt/live/lucaszanella.com/"
       - "./apache2:/etc/apache2/"
     ports:
       - "80:80"
@@ -17,6 +17,6 @@ services:
       dockerfile: lets_encrypt.Dockerfile
     volumes:
       - "./public_html:/var/www/html"
-      - "./letsencrypt:/etc/letsencrypt/live/lucaszanella.com/"
+      - "/letsencrypt:/etc/letsencrypt/live/lucaszanella.com/"
       - "./apache2:/etc/apache2/"
 

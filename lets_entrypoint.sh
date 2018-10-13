@@ -16,6 +16,6 @@ certbot certonly --standalone --non-interactive --agree-tos --email $EMAIL --cer
 
 else
 
-echo "arruming certs are already installed"
+echo "Assuming certs are already installed, only running background renewing jobs."
 
 fi
