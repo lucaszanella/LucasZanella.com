@@ -1,6 +1,8 @@
 FROM ubuntu:latest
 
-RUN apt-get update && apt-get install -y software-properties-common && add-apt-repository ppa:certbot/certbot && apt-get update && apt-get install -y certbot
+RUN apt-get update && apt-get install -y cron software-properties-common && add-apt-repository ppa:certbot/certbot && apt-get update && apt-get install -y certbot
+
+RUN touch /var/log/cron.log
 
 WORKDIR /home
 
