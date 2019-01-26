@@ -17,6 +17,7 @@ services:
       context: .
       dockerfile: lets_encrypt.Dockerfile
     command: renew
+    restart: unless-stopped
     environment:
       - EMAIL=me@lucaszanella.com
       - CERT_NAME=lucaszanella.com
